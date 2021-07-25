@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CameronHPoole, I graduated from the Georgia Institute of Technology with a Bachelor of Science in Aerospace Engineering in May 2021
-- 👀 I’m interested in Space Exploration, Crypto, Orbital Mechanics, Data Visualization, Re-entry Vehicles, Over-the-hirizon Radar (OTH Rada), and Hypersonics
+- 👀 I’m interested in Space Exploration, Crypto, Orbital Mechanics, Data Visualization, Re-entry Vehicles, Over-the-hirizon Radar (OTHR), and Hypersonics
 - 🌱 I’m currently learning Python and SysML
 - 📫 How to reach me: CameronHPoole@gmail.com or Linkedin.com/in/cameronhpoole
 
