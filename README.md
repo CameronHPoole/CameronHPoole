@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CameronHPoole, my educational background is in Aerospace Engineering and Computer Science
   - B.S. in Aerospace Engineering 2021
   - M.S. in Computer Science with a specialization in Interactive Intelligence/ Artificial Intelligence 2026
-- 👀 I’m interested in Space Exploration, Orbital Mechanics, Personal Finance, Game playing, and Classical AI
+- 👀 I’m interested in Game playing, Classical AI, Personal Finance, Space Exploration, and Orbital Mechanics
 - 🌱 I’m currently using Python, JS, and SysML
 - 📫 How to reach me: CameronHPoole@gmail.com or Linkedin.com/in/cameronhpoole
 - [CameronHPoole.github.io](CameronHPoole.github.io)
